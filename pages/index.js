@@ -1,5 +1,5 @@
 import Product from "./../components/Product";
-import Head from "next/Head";
+import Head from "next/head";
 const index = ({ products }) => {
   return (
     <main className="container mt-2">
